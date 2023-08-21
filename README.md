@@ -42,7 +42,7 @@ To https://github.com/Jmukakalisa/git-cafe-exercise.git
 branch 'ft/menu' set up to track 'origin/ft/menu'.
 ```
 
-- Exercise 1
+- Exercise 2
 
 ````
 git checkout -b bg/fix-index-4
